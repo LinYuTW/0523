@@ -9,3 +9,6 @@ G:\mybook\VB\VB2010\ch8\計算Pascal三角形\計算Pascal三角形\obj\x86\Debu
 G:\mybook\VB\VB2010\ch8\計算Pascal三角形\計算Pascal三角形\obj\x86\Debug\計算Pascal三角形.exe
 G:\mybook\VB\VB2010\ch8\計算Pascal三角形\計算Pascal三角形\obj\x86\Debug\計算Pascal三角形.xml
 G:\mybook\VB\VB2010\ch8\計算Pascal三角形\計算Pascal三角形\obj\x86\Debug\計算Pascal三角形.pdb
+C:\Users\790\Desktop\0523\ch8\Pascal三角形\計算Pascal三角形\obj\x86\Debug\計算Pascal三角形.exe
+C:\Users\790\Desktop\0523\ch8\Pascal三角形\計算Pascal三角形\obj\x86\Debug\計算Pascal三角形.xml
+C:\Users\790\Desktop\0523\ch8\Pascal三角形\計算Pascal三角形\obj\x86\Debug\計算Pascal三角形.pdb
