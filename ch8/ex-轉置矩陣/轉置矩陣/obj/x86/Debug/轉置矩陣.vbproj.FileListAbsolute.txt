@@ -1,0 +1,11 @@
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\bin\Debug\轉置矩陣.exe
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\bin\Debug\轉置矩陣.pdb
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\bin\Debug\轉置矩陣.xml
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\obj\x86\Debug\轉置矩陣.exe
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\obj\x86\Debug\轉置矩陣.xml
+H:\mybook\VB\VB2010\ch8\轉置矩陣\轉置矩陣\obj\x86\Debug\轉置矩陣.pdb

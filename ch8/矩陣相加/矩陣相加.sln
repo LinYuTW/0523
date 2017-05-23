@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "矩陣相加", "矩陣相加\矩陣相加.vbproj", "{F599883F-343E-4EEE-B600-6D01259C249A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F599883F-343E-4EEE-B600-6D01259C249A}.Debug|x86.ActiveCfg = Debug|x86
+		{F599883F-343E-4EEE-B600-6D01259C249A}.Debug|x86.Build.0 = Debug|x86
+		{F599883F-343E-4EEE-B600-6D01259C249A}.Release|x86.ActiveCfg = Release|x86
+		{F599883F-343E-4EEE-B600-6D01259C249A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

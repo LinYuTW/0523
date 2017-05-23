@@ -1,0 +1,11 @@
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\bin\Debug\學期成績計算.exe
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\bin\Debug\學期成績計算.pdb
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\bin\Debug\學期成績計算.xml
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\obj\x86\Debug\學期成績計算.exe
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\obj\x86\Debug\學期成績計算.xml
+H:\mybook\VB\VB2010\ch8\學期成績計算\學期成績計算\obj\x86\Debug\學期成績計算.pdb
